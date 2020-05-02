@@ -47,11 +47,11 @@
 >nano ~/.bash_profile
 >```
 
->```
->export PATH="$PATH Line Here"
->export PATH="pwd Line Here:$PATH"
->in nano file
->```
+>>```
+>>export PATH="$PATH Line Here"
+>>export PATH="pwd Line Here:$PATH"
+>>in nano file
+>>```
 
 >```
 >cd New_Folder
