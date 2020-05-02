@@ -1,7 +1,7 @@
 # Terraform EC2 AWS
  Create EC2 Instances using Terraform in AWS
 
- Multiple EC2 Instances create using Terraform
+ ## Multiple EC2 Instances create using Terraform
 
 ```
 wget https://releases.hashicorp.com/terraform/0.12.24/terraform_0.12.24_linux_amd64.zip
