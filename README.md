@@ -27,6 +27,18 @@
 > mv New_Folder ~/
 >```
 
+>```
+>rm File_Name
+>```
+
+>```
+>cd ..
+>```
+
+>```
+>echo $PATH
+>```
+
 > ```terraform
 > provider "aws" {
 >  region     = "us-west-2"
