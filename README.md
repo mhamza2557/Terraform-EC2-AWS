@@ -7,7 +7,7 @@
 wget https://releases.hashicorp.com/terraform/0.12.24/terraform_0.12.24_linux_amd64.zip
 ```
 
-```
+```terraform
 provider "aws" {
   region     = "us-west-2"
   access_key = "my-access-key"
