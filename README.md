@@ -5,6 +5,9 @@
  
 >```
 >mkdir New_Folder
+>```
+
+>```
 >cd New_Folder
 >```
 
