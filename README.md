@@ -50,7 +50,10 @@
 >```
 >export PATH="$PATH Line Here"
 >export PATH="pwd Line Here:$PATH"
+in nano file
 >```
+
+
 
 > ```terraform
 > provider "aws" {
