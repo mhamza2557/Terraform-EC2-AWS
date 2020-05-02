@@ -39,6 +39,14 @@
 >echo $PATH
 >```
 
+>```
+>pwd
+>```
+
+>```
+>nano ~/.bash_profile
+>```
+
 > ```terraform
 > provider "aws" {
 >  region     = "us-west-2"
