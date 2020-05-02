@@ -23,6 +23,10 @@
 >unzip File_Name
 >```
 
+>```
+> mv New_Folder ~/
+>```
+
 > ```terraform
 > provider "aws" {
 >  region     = "us-west-2"
