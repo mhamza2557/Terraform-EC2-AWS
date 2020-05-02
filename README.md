@@ -46,7 +46,7 @@
 >```
 >nano ~/.bash_profile
 >```
-
+>
 >>```
 >>export PATH="$PATH Line Here"
 >>export PATH="pwd Line Here:$PATH"
