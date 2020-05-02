@@ -16,9 +16,12 @@
 > ```
 
 >```
-sudo apt install unzip
+>sudo apt install unzip
 >```
 
+>```
+>unzip File_Name
+>```
 
 > ```terraform
 > provider "aws" {
