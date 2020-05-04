@@ -54,6 +54,10 @@
 >>```
 
 >```
+>source ~/.bash_profile
+>```
+
+>```
 >cd New_Folder
 >```
 
