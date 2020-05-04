@@ -24,7 +24,7 @@
 >```
 
 >```
-> mv New_Folder ~/
+> mv terraform ~/
 >```
 
 >```
