@@ -28,7 +28,7 @@
 >```
 
 >```
->rm File_Name
+>rm terraform_0.12.24_linux_amd64.zip 
 >```
 
 >```
